@@ -18,3 +18,8 @@
   - North pole |0>
   - South pole |1>
   - |psi> = cos(theta/2)|0> + e^(i*phi)*sin(theta/2)|1>
+------
+## The main target is to calculate the design part, raise the correct probability
+- 1. Initialization of qubits
+- 2. **Application of Gates** : this part is quite important
+- 3. Measurement of qubits 
