@@ -1,0 +1,20 @@
+# 0617 NTU IBM Center seminar
+------
+- classic bit (0 or 1) to Qubit (Superposition state between 0 and 1)
+- Vacuum tubes -> Transistors -> Integrated circuits -> Quantum circuits
+- 第五次工業革命(5th indstrial revolution) :
+  - 1. 機械化
+  - 2. 電器化
+  - 3. 資訊化
+  - 4. 物聯網-自動化
+  - 5. 量子化
+- Benefit and advantages:
+  - Superposition : 疊加
+  - Entanglement : 糾纏
+- 指數增長: Exponential grown
+  - classical : N, Qubital : 2^N
+- ![image](https://github.com/brian09088/Quantum_Computing/assets/72643996/3ef268fa-381d-4633-8e5e-93907578ac28)
+- Bloch Sphere:
+  - North pole |0>
+  - South pole |1>
+  - |psi> = cos(theta/2)|0> + e^(i*phi)*sin(theta/2)|1>
